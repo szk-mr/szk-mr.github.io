@@ -1,0 +1,30 @@
+
+.mari-logo{
+   width: 80px;
+}
+
+a{
+   font-family: 'Hannari', serif;
+   font-size: 10px;
+}
+
+body{
+   margin: 0;
+   background: linear-gradient(
+      to bottom,
+      #F0F8FF,
+      #F0FFFF
+      );
+     }
+     
+.main-visual{
+   width: 1200px;
+   margin: 0 auto;
+   display: flex;
+   align-items: center;
+   }
+   
+.main-visual2{
+   width 350px;
+   height auto;
+   }
